@@ -1,0 +1,13 @@
+# Зависимости (библиотеки)
+node_modules/
+.pnpm-store/
+
+# Файлы окружения с паролями и ключами
+.env
+.env.local
+.env.production
+
+# Логи и сборки
+build/
+dist/
+*.log
